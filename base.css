@@ -398,7 +398,7 @@ width:100%;
 				text-align: left;
 				border-radius: 0 !important;
 				border: 0;
-				padding: 3px 20px 3px 25px;
+				padding: 3px 20px 3px 55px;
 				background: none;
 			}
 
@@ -1356,13 +1356,6 @@ border-bottom: 1px solid hsl(0, 0%, 50%);
 		#userlist .profile-box .profile-image {
 			box-shadow: 0 0 5px 0 hsl(0,0%,0%);
 		}
-			/* Specifially user dropdowns */
-			.user-dropdown .btn-group-vertical {
-				border-top: 1px solid hsl(0,0%,18%);
-			}
-	.user-dropdown .btn-group-vertical .btn:hover {
-		background: hsl(199, 68%, 50%);
-	}
 	/* Chat header (time and toggles) */
 #chatheader {
     background-color: hsla(0, 0%, 12%, 0.14);
